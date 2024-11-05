@@ -1,4 +1,4 @@
-name: Original AMD64 Pull and Save Docker Image
+name: AMD64 Pull, zip and Save Docker Image
 on:
   workflow_dispatch:
     inputs:
